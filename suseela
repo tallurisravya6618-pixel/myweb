@@ -5,3 +5,4 @@ maven
 tomcat
 jenkins
 iac tool like terraform
+cloudformation with json
